@@ -1,6 +1,8 @@
 # Product Documents (locally generated)
 product-documents/*
 
+trick.txt
+
 # OS generated files
 .DS_Store
 .DS_Store?
