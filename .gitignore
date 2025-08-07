@@ -1,5 +1,5 @@
 # Product Documents (locally generated)
-product-documents/
+product-documents/*
 
 # OS generated files
 .DS_Store
