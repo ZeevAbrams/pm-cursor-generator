@@ -6,7 +6,7 @@ AI-powered Product Management document generator using **Cursor Project Rules** 
 
 This project provides a modern approach to PM document generation by leveraging Cursor's **Project Rules** system. Instead of complex command palettes, users can simply ask Cursor's AI to create documents, and the AI will follow the predefined templates and product context.
 
-**Note that the Cursor Rules now follow this paradigm, as defined here**: https://docs.cursor.com/en/context/rules#can-rules-reference-other-rules-or-files
+**Note that the Cursor Rules now follow a newer paradigm (no longer .cursorrules), as defined here**: https://docs.cursor.com/en/context/rules
 
 ## 🚀 Quick Start
 
