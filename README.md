@@ -10,6 +10,9 @@ This project provides a modern approach to PM document generation by leveraging 
 
 ## 🚀 Quick Start
 
+### 📹 **Video Tutorial** (Recommended First Step)
+🎥 **[Watch the Setup Tutorial](https://youtu.be/-aZVLptMiuA)** - Learn how to get started in just a few minutes!
+
 ### 1. **Download & Setup** (2 minutes)
 - Download this repo to a new folder for your project
 - No installation required - just need Cursor itself
